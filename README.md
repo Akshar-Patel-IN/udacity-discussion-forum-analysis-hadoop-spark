@@ -9,4 +9,3 @@
 * Month-Year: NOV-2016
 * Dataset: http://content.udacity-data.com/course/hadoop/forum_data.tar.gz
 
-# udacity-discussion-forum-analysis-hadoop-spark
