@@ -6,6 +6,6 @@
 * Tools and OS: Atom, Ubuntu
 * Platform: Hadoop Cluster
 * Lines of Code: 93
-* Duration: 2 Weeks (NOV-2016)
+* Duration: 2 Weeks (NOV 2016)
 * Dataset: http://content.udacity-data.com/course/hadoop/forum_data.tar.gz
 
